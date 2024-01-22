@@ -1,4 +1,2 @@
 vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@172.67.26.210:80/1?type=ws&encryption=none&host=JCYjrF.%D8%B3%DB%8C%D8%B3%DB%8C.WORlD&path=%2Fdl%2Findex.php#Sequoia1
 vless://34150522-1141-423e-aae5-af58dc1bc169@65.109.208.159:443?mode=gun&security=reality&encryption=none&pbk=K21dao-sfv2ObqSf9kNCXA0jw_XPnqhVtGG9KoYijVE&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=grpc&serviceName=&sni=nasiri.netputer.biz&sid=2fa12444#Sequoia2
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443/?congestion_control=bbr&udp_relay_mode=native&sni=ELiV2RAY.eliv2.top&alpn=h3&allow_insecure=1#Sequoia3
-vless://d2620727-c71f-41be-b45e-a61700c2f7e4@190.93.245.101:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn-owmsmsj.mohammad420.sbs&type=ws#Sequoia4
